@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "742114771121",
+    "firebase_url": "https://findmycar-375219-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "findmycar-375219",
+    "storage_bucket": "findmycar-375219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742114771121:android:3b964880c24531581b2290",
+        "android_client_info": {
+          "package_name": "com.example.find_my_car"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742114771121-ekvs3shvfgm98kfs5ojiiinivcfq6jp0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGZZWTkgVv_86R-CeWiBFOuJ23B8C3KZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742114771121-ekvs3shvfgm98kfs5ojiiinivcfq6jp0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
